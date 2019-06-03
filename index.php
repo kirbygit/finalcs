@@ -11,6 +11,9 @@
 		<!-- navbar moved to includes -->
 			<?php include('includes/navbar.php') ?>
 
+		<!-- banner moved to includes -->
+			<?php include('includes/banner.php') ?>
+
 		<!-- Page content -->
 		<div class="content">
 			<h2 class="content-title">Recent Articles</h2>
