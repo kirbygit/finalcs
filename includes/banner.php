@@ -1,6 +1,6 @@
 <div class="banner">
 	<div class="welcome_msg">
-		<h1>Kirby's Motivational Quote</h1>
+		<h1>Kirby's Motivation</h1>
 		<p>
     Push yourself, because no one else is going to do it for you.
 		</p>
