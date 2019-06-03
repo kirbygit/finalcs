@@ -1,4 +1,10 @@
 <?php require_once('config.php') ?>
+
+<?php require_once( ROOT_PATH . '/includes/public_functions.php') ?>
+
+<!-- Retrieve all posts from database  -->
+<?php $posts = getPublishedPosts(); ?>
+
 <!-- head-section moved to includes -->
 <?php require_once( ROOT_PATH . '/includes/head_section.php') ?>
 
