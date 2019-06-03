@@ -28,3 +28,9 @@
 </body>
 
 </html>
+
+<!--
+		PROJECT BY KIRBY
+		CS12, PROFESSOR GHYAM
+		PHP, MYSQL, APACHE, PHPMYADMIN
+-->
