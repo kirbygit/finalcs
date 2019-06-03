@@ -47,5 +47,5 @@
 
   <!-- Footer -->
 	<?php include( ROOT_PATH . '/includes/footer.php'); ?>
-  <!-- // end of Footer -->
+
 </body>
