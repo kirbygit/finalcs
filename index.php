@@ -1,18 +1,16 @@
-<!DOCTYPE html>
-<html>
-
+<?php require_once('config.php') ?>
 <!-- head-section moved to includes -->
-<?php require_once('includes/head_section.php') ?>
+<?php require_once( ROOT_PATH . '/includes/head_section.php') ?>
 
 <body>
 	<!-- container -->
 	<div class="container">
 
 		<!-- navbar moved to includes -->
-			<?php include('includes/navbar.php') ?>
+			<?php include( ROOT_PATH . '/includes/navbar.php') ?>
 
 		<!-- banner moved to includes -->
-			<?php include('includes/banner.php') ?>
+			<?php include( ROOT_PATH . '/includes/banner.php') ?>
 
 		<!-- Page content -->
 		<div class="content">
@@ -23,7 +21,7 @@
 		<!-- // end of Page content -->
 
 		<!-- footer -->
-			<?php include('includes/footer.php') ?>
+			<?php include( ROOT_PATH . '/includes/footer.php') ?>
 
 	</div>
 	<!-- // end of container -->
